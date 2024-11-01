@@ -13,6 +13,9 @@ Las instancias solo pueden enviar o recibir mensajes despuÃ©s de unirse a un clÃ
 
 Una Ec2 que ejecuta varios contenedores en diferentes puertos usan una misma red creada desde docker y se pueden enviar y recibir mensajes entre ellos.
 
+![](images/arqui.png)
+
+
 ## Video de funcionamiento
 
 https://www.youtube.com/watch?v=_IYubnt_pQ0
